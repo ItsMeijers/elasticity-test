@@ -18,7 +18,10 @@ Content
   *   The Actor Model
   *   Reactive Streams
   *   Other
-*   Why Elasticity Matters
+*   Elasticity in Depth
+  *   Why Elasticity Matters
+  *   Architecture of Elastic Web Applications
+  *   Dynamic Scaling Strategies
 *   ElasticityTest: Validation of Elasticity in Web Applications
   *   Overview
   *   Type of Tests

@@ -1,4 +1,0 @@
-Why Elasticity Matters
-======================
-
-TODO
