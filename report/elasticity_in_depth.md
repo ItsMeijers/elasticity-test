@@ -1,13 +1,24 @@
 Elasticity in Depth
 ======================
 
-Why Elasticity Matters
-----------------------
+The importance of Elasticity
+----------------------------
 
-### Saving Hosting Costs
+### Availability
 
-Architecture of Elastic Web Applications
-----------------------------------------
+### Resource optimization
+
+### Cost Saving
+
+Niet nodig -> Blijven draaien -> wenselijke gedrag -> onderzoek -> hoeveel/wat levert het op
+
+
+Architectural Constrains in Web Applications
+--------------------------------------------
 
 Dynamic Scaling Strategies
 --------------------------
+
+### Reactive Scaling
+
+### Proactive Scaling

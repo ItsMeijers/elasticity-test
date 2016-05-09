@@ -1,5 +1,5 @@
-Testing Elasticity in Reactive Web Applications
-===============================================
+The Validation of Elasticity Strategies in Reactive Web Applications
+===================================
 
 _Thomas Meijers - Rotterdam University of Applied Sciences - thomasmeijers@live.nl_
 
@@ -9,28 +9,30 @@ Content
 *   Abstract
 *   Introduction
 *   Related Work
-*   Reactive Programming
-  *   Event Driven
-  *   Resilient
-  *   Elastic
-  *   Responsive
-*   Reactive Programming Methods
+*   Background: Reactive Programming
+  *   The Reactive Manifesto
+      *   Event Driven
+      *   Resilient
+      *   Elastic
+      *   Responsive
   *   The Actor Model
-  *   Reactive Streams
-  *   Other
 *   Elasticity in Depth
-  *   Why Elasticity Matters
-  *   Architecture of Elastic Web Applications
-  *   Dynamic Scaling Strategies
-*   ElasticityTest: Validation of Elasticity in Web Applications
+    *   The importance of Elasticity
+    *   Dynamic Scaling Strategies
+    *   Architectural Constraints in Web Applications
+*   ElasticityTest Service
   *   Overview
-  *   Type of Tests
-  *   Realistic User Traffic Simulation
-  *   A DSL for Testing Elasticity
-  *   Supporting Continuous Inspection
+  *   Goals
+      *   Realistic User Traffic Simulation
+      *   Http Request Scheduling DSL
+      *   Supporting Continuous Inspection
+  *   Design
   *   Implementation
-  *   Application
-  *   Validation
+*   Method
+  *   Test Application
+  *   Test Environment
+  *   Test Scenarios
+*   Results
 *   Discussion
 *   Conclusion
 *   References

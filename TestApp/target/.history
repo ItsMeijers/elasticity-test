@@ -1,0 +1,6 @@
+update
+gen-ensime
+~compile
+update
+compile
+run
